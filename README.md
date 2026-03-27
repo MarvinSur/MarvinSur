@@ -2,7 +2,7 @@
 
 I'm a developer with a passion for building things that actually matter. I contribute to **Minecraft Java plugins** — diving deep into the game's internals, extending functionality, and making the experience better for players and server owners alike. Beyond that, I love crafting **useful tools for developers**: the kind of stuff that saves time, reduces friction, and makes the dev experience just a little bit smoother.
 
-My main focus is **Frontend** — I enjoy building clean, functional interfaces that people actually enjoy using. On the side, I'm also getting into **cybersecurity**, still learning the ropes but genuinely hooked. Whether it's writing TypeScript for a web interface, spinning up a Java plugin with Bukkit/Spigot, or scripting something in Python, I'm all in. I believe good software doesn't have to be complicated — it just has to work well and be maintainable.
+My main focus is **frontend** — I enjoy building clean, functional interfaces that people actually enjoy using. On the side, I'm also getting into **cybersecurity**, still learning the ropes but genuinely hooked. Whether it's writing TypeScript for a web interface, spinning up a Java plugin with Bukkit/Spigot, or scripting something in Python, I'm all in. I believe good software doesn't have to be complicated — it just has to work well and be maintainable.
 
 When I'm not coding, I'm probably playing Minecraft, exploring new tech, or busy with school.
 
