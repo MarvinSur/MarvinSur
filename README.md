@@ -43,7 +43,7 @@ When I'm not coding, I'm probably playing Minecraft, exploring new tech, or busy
   <img src="https://streak-stats.demolab.com?user=MarvinSur&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
-## 🟩 Contribution Calendar
+## 🟩 Contribution Calendar 2026
 
 <img src="https://ghchart.rshah.org/239a3b/MarvinSur" width="100%" />
 
