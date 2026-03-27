@@ -2,7 +2,7 @@
 
 I'm a developer with a passion for building things that actually matter. I contribute to **Minecraft Java plugins** — diving deep into the game's internals, extending functionality, and making the experience better for players and server owners alike. Beyond that, I love crafting **useful tools for developers**: the kind of stuff that saves time, reduces friction, and makes the dev experience just a little bit smoother.
 
-I work across the full stack — comfortable with frontend, backend, and everything in between. Whether it's writing clean TypeScript for a web app, spinning up a Java plugin with Bukkit/Spigot, or scripting something in Python to automate a workflow, I'm all in. I believe good software doesn't have to be complicated — it just has to work well and be maintainable.
+My main focus is **Frontend** — I enjoy building clean, functional interfaces that people actually enjoy using. On the side, I'm also getting into **cybersecurity**, still learning the ropes but genuinely hooked. Whether it's writing TypeScript for a web interface, spinning up a Java plugin with Bukkit/Spigot, or scripting something in Python, I'm all in. I believe good software doesn't have to be complicated — it just has to work well and be maintainable.
 
 When I'm not coding, I'm probably playing Minecraft, exploring new tech, or busy with school.
 
@@ -37,14 +37,14 @@ When I'm not coding, I'm probably playing Minecraft, exploring new tech, or busy
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=MarvinSur&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSur&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-## 🟩 Contribution Graph
+## 🟩 Contribution Calendar
 
 <img src="https://ghchart.rshah.org/239a3b/MarvinSur" width="100%" />
 
