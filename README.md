@@ -40,8 +40,7 @@ When I'm not coding, I'm probably playing Minecraft, exploring new tech, or busy
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarvinSur&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSur&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=MarvinSur&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ## 🟩 Contribution Calendar
