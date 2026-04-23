@@ -1,4 +1,4 @@
-# Hey, I'm Marvin 👋
+# Hey, I'm Marvin 👋🏼
 
 I'm a developer with a passion for building things that actually matter. I contribute to **Minecraft Java plugins** — diving deep into the game's internals, extending functionality, and making the experience better for players and server owners alike. Beyond that, I love crafting **useful tools for developers**: the kind of stuff that saves time, reduces friction, and makes the dev experience just a little bit smoother.
 
